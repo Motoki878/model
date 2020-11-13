@@ -2,16 +2,16 @@ Masanori Shimono, 20/05/29  wrote
 Motoki Kajiwara,  20/11/06  translated
 
  ---------------  
-#Example
+# Example
   You can change data_index　to any value.
   data_index = 1; run_and_save0
  
----------------  
-＃Program dependencies
+ ---------------  
+ # Program dependencies
   model_ver2020_simple_ver7.m　and Post2Conmat_rev.m are cited in run_and_save0.
 
 ---------------  
-#Steps of simulation
+# Steps of simulation
 
   At the beginning, the movement is slow and the activity status is strange.
   However the figure keeps appearing and  gradually shifts to the activity closer to reality.
@@ -19,7 +19,7 @@ Motoki Kajiwara,  20/11/06  translated
   Also the data of the connection matrix called conmat is saved.
   
 ---------------  
-#Figure
+# Figure
 
   In the upper left of the figure, the horizontal axis is the time and the vertical axis is the time series of the cell index.
   A blue dot is pointed where you are active
