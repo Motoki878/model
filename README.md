@@ -13,10 +13,10 @@ Motoki Kajiwara,  20/11  translated
 ---------------  
 # Steps of simulation
 
-  At the beginning, the movement is slow and the activity status is strange.
-  However the figure keeps appearing and  gradually shifts to the activity closer to reality.
-  Finally, a folder called "data" is created to save the results of recording the second half of the simulation.
-  Also the data of the connection matrix called conmat is saved.
+   At the beginning of the simulation, the movement is slow and the activity status will seem to be strange. However the figure 
+   keeps appearing and gradually shifts to the activity closer to the behavior of real neuronal networks. Finally, a folder called 
+   "data" is produced saving the results of recording the second half of the simulation. Also the data of the connection matrix 
+   called conmat will be saved.
   
 ---------------  
 # Figure
