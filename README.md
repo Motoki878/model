@@ -1,5 +1,5 @@
-Masanori Shimono, 20/05/29  wrote
-Motoki Kajiwara,  20/11/06  translated
+Masanori Shimono, 20/05  wrote
+Motoki Kajiwara,  20/11  translated
 
  ---------------  
 # Example
