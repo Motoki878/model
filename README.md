@@ -19,11 +19,11 @@ Motoki Kajiwara,  20/11  translated
    called conmat will be saved.
   
 ---------------  
-# Figure
+# Figure monitoring activities
 
-  In the upper left of the figure, the horizontal axis is the time and the vertical axis is the time series of the cell index.
-  A blue dot is pointed where you are active
-  In the upper right of the figure, cells that are active in a certain time cross section are represented by yellow markers.
-  The connection matrix (binary) is displayed at the bottom left of the figure.
-  At the bottom right of the figure, you don't have to worry about it now.
+  In the upper left of the figure, the horizontal axis is the time and the vertical axis is the time series of the cells' index. 
+  A blue dot is pointed where you are active In the upper right of the figure, cells that are active in a certain time cross 
+  section are represented by yellow markers. The connection matrix (binary) is displayed at the bottom left of the figure. 
+  The bottom right panel shows distributions of connectivity weights.
+
 
