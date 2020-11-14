@@ -8,7 +8,7 @@ Motoki Kajiwara,  20/11/06  translated
  
  ---------------  
  # Program dependencies
-  model_ver2020_simple_ver7.m　and Post2Conmat_rev.m are cited in run_and_save0.
+  run_and_save0.m is the main code to be ran, which cites two other m-files, model_ver2020_simple_ver7.m and Post2Conmat_rev.m.
 
 ---------------  
 # Steps of simulation
