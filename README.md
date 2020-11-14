@@ -3,8 +3,9 @@ Motoki Kajiwara,  20/11  translated
 
  ---------------  
 # Example
-  You can change data_index　to any value.
-  data_index = 1; run_and_save0
+  To run the code in Matlab, type like the following code at the home directory saving this code:
+     data_index = 1; run_and_save0
+  Here, you can change the value of data_index to any value.
  
  ---------------  
  # Program dependencies
