@@ -55,9 +55,9 @@ firings=[-D 0];                         % spike timings
 %% ---------------
 % They are just for activity monitoring
 
-T0              = 0.5*60*60*1;       % the starting time of data recording  (STDP ON   0.5 hour)
-T_recstart = T0 + 30*60*1;           % the starting time of data recording  (STDP ON   0.5 hour)
-T                = 1.5*60*60*1 + T0; % the duration of experiment           (STEP OFF  1.5 hour)
+T0              =             0.5*60*60; % the duration of initial network growth  (STDP ON  0.5 hour)
+T_recstart      = T0        + 0.5*60*60; % the starting time of data recording     (STDP OFF 0.5 hour)
+T               = T_recstart+ 1.0*60*60; % the duration of experiment              (STEP OFF 1.0 hour)
 
 
 n1  = 1;             % a presynaptic excitatory neuron
