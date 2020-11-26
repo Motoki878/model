@@ -22,11 +22,11 @@
 M=100;                 % number of synapses per neuron
 D=4;                   % maximal conduction delay  (Originally 1ms, it's strange.)
 % excitatory neurons   % inhibitory neurons      % total number
-Ne=800;                Ni=200;                   N=Ne+Ni;
+Ne=400;                Ni=100;                   N=Ne+Ni;
 a=[0.02*ones(Ne,1);    0.1*ones(Ni,1)];
 d=[   8*ones(Ne,1);    2*ones(Ni,1)];
-smp =  12      % maximal positive synaptic strength
-smn = -12      % maximal negative synaptic strength
+smp =  15      % maximal positive synaptic strength
+smn = -15      % maximal negative synaptic strength
 
 post=ceil([N*rand(Ne,M);Ne*rand(Ni,M)]);
 
